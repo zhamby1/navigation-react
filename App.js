@@ -10,7 +10,7 @@ const Stack = createNativeStackNavigator();
 //header right which is a function that returns a button on the upper right hand part of the screen (upper portion is known as the header)
 //return a button with the text of Buy and create a route paramater called stock that equal 0
 
-
+//jjj
 export default function App() {
   return (
     <NavigationContainer>
